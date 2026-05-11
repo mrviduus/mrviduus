@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mrviduus/mrviduus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vasyl, an AI & systems engineer from Canada building agentic workflows, developer tooling, and AI-powered products.
 
-Here are some ideas to get you started:
+Currently working on **TextStack** — an AI-first reading platform focused on contextual learning, semantic retrieval, and interactive reading experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Agentic AI systems
+- MCP servers & tooling
+- RAG infrastructure
+- LLM orchestration
+- Observability & tracing
+- HPC & performance engineering
+- Developer platforms
+- Distributed systems
+- CLI automation
+
+## Tech Stack
+
+- C# / .NET
+- TypeScript
+- React & React Native
+- PostgreSQL
+- Docker
+- OpenTelemetry
+- RAG pipelines
+- MCP & agent tooling
+
+## Featured Projects
+
+### 📚 TextStack
+AI-powered reading platform with contextual explanations, semantic retrieval, vocabulary systems, and interactive learning workflows.
+
+### 🤖 AiAgents
+Experiments with MCP servers, autonomous agents, orchestration patterns, and multi-agent workflows.
+
+### ⚡ xUnitOTel
+OpenTelemetry instrumentation for xUnit v3 tests with distributed tracing support for HTTP, SQL, and gRPC workflows.
+
+### 🔎 RCA
+LLM-powered CLI utility for root-cause analysis of failed test logs and telemetry pipelines.
+
+### 💬 ReplyMate
+AI-powered LinkedIn assistant focused on local-first inference and intelligent writing workflows.
+
+---
+
+> Interested in building systems at the intersection of AI, infrastructure, observability, and developer tooling.
