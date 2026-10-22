@@ -16,7 +16,7 @@ ASP.NET Core · React · Expo · [Web](https://textstack.app/) · [Google Play](
 
 | Tool | What it does | Install | NuGet downloads |
 |---|---|---|---|
-| [LoadSurge](https://github.com/mrviduus/LoadSurge) | Actor-based, high-concurrency load generation. RPS and P95 in a few lines of C# | `dotnet add package LoadSurge` | 11k |
+| [LoadSurge](https://github.com/mrviduus/LoadSurge) | Open-model load generation at a constant arrival rate. RPS and P95 in a few lines of C# | `dotnet add package LoadSurge` | 11k |
 | [xUnitV3LoadFramework](https://github.com/mrviduus/xUnitV3LoadFramework) | Pluggable runners for high-concurrency load runs | `dotnet add package xUnitV3LoadFramework` | 23k |
 
 ## AI and agents
