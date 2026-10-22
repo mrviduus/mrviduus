@@ -29,7 +29,7 @@ OpenAI API · Semantic Kernel · MCP · local models with Ollama
 
 ## Writing
 
-On [vasyl.blog](https://vasyl.blog) ([start here](https://vasyl.blog/start-here/)):
+On [vasyl.blog](https://vasyl.blog) ([start here](https://vasyl.blog/start-here/)), cross-posted to [dev.to](https://dev.to/mrviduus):
 
 - [Nothing crashed. My CPU sat at 390%.](https://vasyl.blog/2026/07/17/nothing-crashed-my-cpu-sat-at-390-percent/)
 - [False sharing: meet the cache line](https://vasyl.blog/2026/07/03/false-sharing-meet-the-cache-line/)
