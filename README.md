@@ -1,6 +1,6 @@
 # Vasyl Vdovychenko
 
-I build high-load performance tooling and AI-powered products in .NET: load generation, observability, and a reader for dense tech books.
+Senior .NET engineer. High-load systems, developer platforms, AI.
 **50k+ NuGet downloads** across my packages.
 
 ## TextStack: finish the tech books you keep quitting
